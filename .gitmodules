@@ -1,3 +1,30 @@
 [submodule "practica1"]
 	path = practica1
 	url = https://github.com/Squeletito08/ICC-Practica_1.git
+[submodule "practica2"]
+	path = practica2
+	url = https://github.com/Squeletito08/ICC-Practica_2.git
+[submodule "practica3"]
+	path = practica3
+	url = https://github.com/Squeletito08/ICC-Practica_3.git
+[submodule "practica4"]
+	path = practica4
+	url = https://github.com/Squeletito08/ICC-Practica_4.git
+[submodule "practica5"]
+	path = practica5
+	url = https://github.com/Squeletito08/ICC-Practica_5.git
+[submodule "practica6"]
+	path = practica6
+	url = https://github.com/Squeletito08/ICC-Practica_6.git
+[submodule "practica7"]
+	path = practica7
+	url = https://github.com/Squeletito08/ICC-Practica_7.git
+[submodule "practica8"]
+	path = practica8
+	url = https://github.com/Squeletito08/ICC-Practica_8.git
+[submodule "practica9"]
+	path = practica9
+	url = https://github.com/Squeletito08/ICC-Practica_9.git
+[submodule "practica10"]
+	path = practica10
+	url = https://github.com/Squeletito08/ICC-Practica_10.git
